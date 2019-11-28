@@ -6,5 +6,8 @@
             "email": "i@unoanumo.ru"
         }
     ],
-    "require": {}
+    "require": {
+      "ext-mysqli": "*",
+        "ext-pdo": "*"
+    }
 }
