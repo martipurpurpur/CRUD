@@ -1,7 +1,7 @@
 <?php
 $dsn = "mysql:host=localhost; dbname=CRUD";
 $user = 'martipurpurpur';
-$pass = '9tu!bWwa';
+$pass = 'secret';
 $opt = array(
     \PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION
 );
